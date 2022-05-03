@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudarshi&label=Profile%20views&color=0e75b6&style=flat" alt="anudarshi" /> </p>
 
-## 🙋‍♂️ About Me
+## 🙋🏻‍♀️ About Me
 
 - 🔭 I’m currently working on **Microsoft Engage 2022**
 
