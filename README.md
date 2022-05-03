@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on **Microsoft Engage 2022 **
 
-- 🌱 I’m currently learning **Data Structures and Algorithms,javascript,cpp,html,css,cloud computing,react js**
+- 🌱 I’m currently learning **Data Structures and Algorithms,javascript,
+cpp,html,css,cloud computing,
+react js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
