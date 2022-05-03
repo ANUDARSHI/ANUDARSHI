@@ -1,9 +1,16 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Anudarhi Dutta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anudarhi Dutta</h1>
 <h3 align="center">I would introduce myself as a keen learner and eager to learn new skills. I am extremely driven, with a clear goal to succeed.I am constantly looking for opportunities and collaborative work ,and have a firm belief that my present as well as upcoming skills will help me cope up with a dynamic environment and define me as who i am.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudarshi&label=Profile%20views&color=0e75b6&style=flat" alt="anudarshi" /> </p>
 
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **Microsoft Engage 2022 **
+
+- 🌱 I’m currently learning **Data Structures and Algorithms and javascript .**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🌱 I’m currently learning **javascript cpp html css cloud computing react js**
 
 - 📫 How to reach me **anudarshi.dutta@gmail.com**
