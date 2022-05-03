@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anudarhi Dutta</h1>
+### Hello peeps👀 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anudarshi Dutta</h1>
 <h3 align="center">I would introduce myself as a keen learner and eager to learn new skills. I am extremely driven, with a clear goal to succeed.I am constantly looking for opportunities and collaborative work ,and have a firm belief that my present as well as upcoming skills will help me cope up with a dynamic environment and define me as who i am.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudarshi&label=Profile%20views&color=0e75b6&style=flat" alt="anudarshi" /> </p>
@@ -8,16 +8,19 @@
 
 - 🔭 I’m currently working on **Microsoft Engage 2022 **
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and javascript .**
+
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🌱 I’m currently learning **javascript cpp html css cloud computing react js**
+- 🌱 I’m currently learning **Data Structures and Algorithms,javascript,cpp,html,css,cloud computing,react js**
 
 - 📫 How to reach me **anudarshi.dutta@gmail.com**
 
-<h3 align="left">Connect with me:</h3>![github](https://user-images.githubusercontent.com/89626174/166443075-659beced-6cac-4e3d-8131-91906b44a100.gif)
+<h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89626174/166443897-08187d75-c35c-4219-bb57-4cf84fd5eb3d.gif">
 
-<p align="left">
+
+
+
 <a href="https://www.leetcode.com/anudarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anudarshi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/anudarshi_dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="anudarshi_dutta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anudarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anudarshi" height="30" width="40" /></a>
