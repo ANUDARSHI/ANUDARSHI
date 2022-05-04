@@ -42,4 +42,3 @@ react js**
 <a href="https://github.com/anudarshi/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=anudarshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=nord&hide_border=true&bg_color=0D1117" /></a>
 
 
- <img src="https://user-images.githubusercontent.com/89626174/166616464-f5552af1-1aee-4ed2-b594-54fe06313c21.gif" alt="anudarshi" />
