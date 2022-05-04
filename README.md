@@ -33,13 +33,13 @@ react js**
 
 ## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudarshi&show_icons=true&locale=en&layout=compactbg_color=0D1117&theme=react&hide_border=true&bg_color=0D1117" alt="anudarshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudarshi&show_icons=true&locale=en&layout=compactbg_color=0D1117&theme=gotham&hide_border=true&bg_color=0D1117" alt="anudarshi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudarshi&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="anudarshi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudarshi&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="anudarshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudarshi&&theme=react&hide_border=true&bg_color=#125B50" alt="anudarshi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudarshi&&theme=nightowl&hide_border=true&bg_color=#125B50" alt="anudarshi" /></p>
 
-<a href="https://github.com/anudarshi/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=anudarshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/anudarshi/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=anudarshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=nord&hide_border=true&bg_color=0D1117" /></a>
 
 
-
+ <img src="https://user-images.githubusercontent.com/89626174/166616464-f5552af1-1aee-4ed2-b594-54fe06313c21.gif" alt="anudarshi" />
