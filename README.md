@@ -6,7 +6,7 @@
 
 ## 🙋🏼‍♀️ About Me
 
-- 🔭 I’m currently working on **Microsoft Engage 2022**
+- 🔭 I’m currently working on *Microsoft Engage 2022*
 
 - 🌱 I’m currently learning **Data Structures and Algorithms , javascript ,
 cpp , html, css , java , cloud computing ,
@@ -15,7 +15,7 @@ react js**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **anudarshi.dutta@gmail.com**
+- 📫 How to reach me *anudarshi.dutta@gmail.com*
 
 <h3 align="left"> ✉️ Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89626174/166443897-08187d75-c35c-4219-bb57-4cf84fd5eb3d.gif">
@@ -39,6 +39,11 @@ react js**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudarshi&&theme=nightowl&hide_border=true&bg_color=#125B50" alt="anudarshi" /></p>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anudarshi)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/anudarshi/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=anudarshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=nord&hide_border=true&bg_color=0D1117" /></a>
+
+
 
 
