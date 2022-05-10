@@ -1,6 +1,6 @@
 ### Hello peeps👀 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anudarshi Dutta</h1>
-<h3 align="center">I would introduce myself as an organised and efficient person with an enquiring mind I acquired my knowledge of web development and basic programming by self-teaching, and I am able to apply this knowledge in a real-world environment. I also have many other interests outside the languages of HTML, CSS, Javascript,including C++,JAVA,C PROGRAMMING and if you can’t find me working on cool projects you can probably find me singing to the tunes of old classical melodies or just engrossed in non fiction novels. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.!</h3>
+<h3 align="center">I would introduce myself as an organised and efficient person with an enquiring mind I acquired my knowledge of web development and basic programming by self-teaching, and I am able to apply this knowledge in a real-world environment. I am interested in HTML, CSS, Javascript,including programming languages such as C++,JAVA,C,python and if you can’t find me working on cool projects you can probably find me singing to the tunes of old classical melodies or just engrossed in non fiction novels. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.!</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudarshi&label=Profile%20views&color=0e75b6&style=flat" alt="anudarshi" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms , javascript ,
 cpp , html, css , java , cloud computing ,
-react js**
+react js and python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
