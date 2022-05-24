@@ -8,7 +8,8 @@
 
 ### 🙋🏼‍♀️ About Me
 
-- 🔭 I’m currently working on *Microsoft Intern Engage 2022*
+- 🔭 I’m currently working on *Microsoft Intern Engage 2022 & 
+Google Cloud Ready Facilitator Progarm*
 
 - 🌱 I’m currently learning **Data Structures and Algorithms , javascript ,
 cpp , html, css , java , cloud computing ,
