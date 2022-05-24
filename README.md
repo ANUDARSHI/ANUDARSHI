@@ -1,6 +1,6 @@
 ### Hello peeps👀 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> I'm Anudarshi Dutta</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=8FD7F7&background=FF35BA00&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4995&color=35A8F7&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 <h3 align="center">I would introduce myself as an organised and efficient person with an enquiring mind I acquired my knowledge of web development and basic programming by self-teaching, and I am able to apply this knowledge in a real-world environment. I am interested in HTML, CSS, Javascript,including many other programming languages such as C++,JAVA,C,python and if you can’t find me working on cool projects you can probably find me singing to the tunes of old classical melodies or just engrossed in non fiction novels. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudarshi&label=Profile%20views&color=0e75b6&style=flat" alt="anudarshi" /> </p>
