@@ -42,9 +42,7 @@ react js and python**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudarshi&&theme=nightowl&hide_border=true&bg_color=#125B50" alt="anudarshi" /></p>
 
-
-[![Anudarshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=anudarshi&theme=xcode)](https://github.com/anudarshi/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ANUDARSHI&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anudarshi)](https://github.com/ryo-ma/github-profile-trophy)
