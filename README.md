@@ -33,7 +33,7 @@ react js and python**
 </p>
 <img align="right" alt="coding" width="700" src="https://user-images.githubusercontent.com/89626174/169480849-de1c6fa3-1f4c-491f-9b13-0b2de4f3afcc.gif">
 
-**📈 My Github Stats**
+### 📈 My Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudarshi&show_icons=true&locale=en&layout=compactbg_color=0D1117&theme=omni&hide_border=true&bg_color=0D1117&langs_count=20" alt="anudarshi" /></p>
 
