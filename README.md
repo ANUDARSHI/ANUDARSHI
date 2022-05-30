@@ -35,7 +35,7 @@ react js and python**
 
 **📈 My Github Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudarshi&show_icons=true&locale=en&layout=compactbg_color=0D1117&theme=omni&hide_border=true&bg_color=0D1117&langs_count=10" alt="anudarshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudarshi&show_icons=true&locale=en&layout=compactbg_color=0D1117&theme=omni&hide_border=true&bg_color=0D1117&langs_count=20" alt="anudarshi" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudarshi&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="anudarshi" /></p>
