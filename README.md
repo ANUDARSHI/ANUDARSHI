@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudarshi&label=Profile%20views&color=0e75b6&style=flat" alt="anudarshi" /> </p>
 
-<img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/7f3718fa8d0ac3487a41a550bb63458ae50055aad222b32d321f93d210cdd3bd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4b32574c4d5445784c79696461374f522e676966">
+<img align="right" alt="coding" width="400" height="400" src="https://camo.githubusercontent.com/7f3718fa8d0ac3487a41a550bb63458ae50055aad222b32d321f93d210cdd3bd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4b32574c4d5445784c79696461374f522e676966">
 
 ### 🙋🏼‍♀️ About Me
 
