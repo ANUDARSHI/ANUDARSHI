@@ -16,7 +16,8 @@ Google Cloud Ready Facilitator Program*
 cpp , html, css , java , cloud computing ,
 react js and python**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource
+ Projects**
 
 - 📫 How to reach me <br>
 *anudarshi.dutta@gmail.com*
